@@ -1,2 +1,2 @@
-# manage_money
-React native 
+# Leanning React native
+Project 1 Todo List
